@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+La la la laaaaaa
+
 * Ruby version
 
 * System dependencies
